@@ -1,0 +1,12 @@
+{
+    "name": "something",
+    "description": "Something",
+    "version": "0.0.1",
+    "dependencies": {
+        "gulp": "",
+        "gulp-browserify": "",
+        "gulp-sass": "",
+        "gulp-plumber": "",
+        "gulp-rename": ""
+    }
+}
